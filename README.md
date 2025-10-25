@@ -68,5 +68,44 @@ The Supply Chain Inventory Performance Analysis project aims to evaluate the ope
 
 
 # Executive Summary
+Our supply chain has demonstrated resilience and maturity from 2020 to 2024, achieving consistent sales growth and improved operational efficiency. Despite early data anomalies and global disruptions, we have successfully navigated market shifts, optimized inventory and enhanced service levels. Key findings reveal distinct regional preferences and category performance, highlighting clear strategic priorities for future growth and supply chain optimization.
+
+
+###  Overview of Findings 
+- Sales rebounded robustly growing nearly fourfold from 2020 to 2024, demonstrating a mature and resilient supply chain and also overcoming early data anomalies notably in 2021.
+  
+- The supply chain matured significantly, evidenced by a declining backorder rate from 13% in 2022 to 6.8% in 2024 and stabilized with high order accuracy.
+
+- Clothing and Electronics are the primary growth drivers over 50% of sales with distinct regional preference where Clothing leads in the North/South, Electronics dominates the West and 
+  East has balanced demand.
+
+- Order fulfillment shows Accessories have the highest efficiency 71.94%. Clothing leads in volume but with significant pending orders, Electronics experience the highest cancellations 
+  and Furniture faces rising pending orders.
+
+- Supplier A dominates overall supply particularly in electronics and accessories, making it crucial for tech-related demand. In contrast, Supplier B maintains the highest inventory 
+  with balanced contributions to electronics and clothing, while Suppliers C and Supplier D supllies overall smallest vloume suggesting a niche or specialized role.
+
+- High volumes of pending orders in the West and South  represent a direct risk of conversion to cancellations, locking up significant potential revenue.
+
+- Warehouse capacity is severely underutilized at 34% against a 75% target
+
+- Transportation cost efficiency improved from 14% to about 12% of COGS between 2020 and 2024 despite increased sales volume,
+  indicating better route optimization and logistics control.
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
  
