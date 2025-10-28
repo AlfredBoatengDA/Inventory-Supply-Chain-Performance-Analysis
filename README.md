@@ -95,10 +95,56 @@ Our supply chain has demonstrated resilience and maturity from 2020 to 2024, ach
   
 
 
+&nbsp;
+
+&nbsp;
+
+
+# 4. Insights Deep Dive 
+
+
+###  Sales & Demand Dashboard 
+
+
+* Early years 2020–2021 reflected pandemic shocks and data irregularities with low sales and high inventory. In 2020 sales remained modest (55k units) despite high inventories (262k 
+  units) mainly due to the COVID-19 lockdowns that disrupted logistics and shifted consumer priorities toward essentials. By 2021, sales dropped to an all-time low (761 units), 
+  reflecting supply shortages and limited product availability particularly in non-essential categories like clothing and furniture. From 2022 – 2024, we witnessed a strong rebound 
+  where sales surged to 192k units with order accuracy exceeding 90% and backorders declining from 13% to 6.8%.  Inventory level were well-optimized, sustaining higher sales without 
+  overstocking.
+
+* Clothing and Electronics contributed 27.5% and 6.6% respectively which led the total sales, serving as the company’s main growth drivers. Furniture maintained a steady contribution 
+  with a consistent share of 24.9% while Accessories maintain steady but lower sales at around 21%.
+  The evolution of our product demand reveals a distinct progression in market leadership. Furniture was the initial sales leader in 2020 but there was a shift to a surge in Electronics 
+  during the 2022 tech rebound. Later transitioned into a stable market where apparel (Clothing) emerged as a consistent category leader alongside Electronics from 2023 to 2024.
 
 
 
 
+
+* Over the five-year period, our sales distribution by region and product category reveals clear market segmentation and evolving consumer preferences.
+  The North being the overall leader where demand is well balanced. It is led Clothing and closely followed by Electronics and Furniture with Accessories trailing
+  The West stands out as an electronics driven region recording 50,000 unit sold far as surpassing other categories indicating a tech-oriented, urbanized customer based with digital 
+  lifestyle needs. 
+  In the East, sales are notably even across categories with Electronics (38,803), Furniture (38,739), Accessories (38,580) and Clothing slightly lower with 36,000 unit sold. This 
+  balanced demand suggests the region value variety rather than single dominant product type. The South shows a strong preference for Clothing (45,000 units) with other categories 
+  trailing which likely driven by fashion-conscious consumers or cultural buying habits.
+
+
+
+   
+
+* The efficiency of our supply chain lies a well-coordinated network supplier each playing a distinct role in driving category performance.
+  Supplier A is the largest overall unit supplier, primarily focused on Electronics and Accessories, making them vital for tech and accessory categories. Supplier B despite having 
+  slightly fewer units than supplier A, has the highest inventory, with strong electronics and clothing focus.
+  Supplier C specializes more in Clothing and Electronics but the smallest volume while Supplier D focuses on Clothing and Furniture with lower emphasis on Electronics.
+
+* Our order fulfillment analysis paints a clear picture of category-level operational efficiency and emerging bottlenecks within the supply chain.
+  Accessories lead the pack, achieving the highest fulfillment rate (71.94%) and the lowest pending order percentage (18.39%).
+  Clothing, while boasting the highest number of fulfilled orders (116,404), also carries a pending order rate of 20.14%.
+  Electronics present a different challenge altogether, with the highest cancellation rate (12.63%). These cancellations likely stem from price volatility 
+  and heightened competition in the tech market.
+  Lastly, Furniture remains a steady contributor but shows operational friction. Despite a moderate cancellation rate (7.86%), its rising pending orders (23.95%) reveal the logistical 
+  strain tied to bulky shipments, warehousing delays and transportation lead times.
 
 
 
