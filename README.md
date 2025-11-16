@@ -138,6 +138,8 @@ Our supply chain has demonstrated resilience and maturity from 2020 to 2024, ach
   slightly fewer units than supplier A, has the highest inventory, with strong electronics and clothing focus.
   Supplier C specializes more in Clothing and Electronics but the smallest volume while Supplier D focuses on Clothing and Furniture with lower emphasis on Electronics.
 
+
+
 * Our order fulfillment analysis paints a clear picture of category-level operational efficiency and emerging bottlenecks within the supply chain.
   Accessories lead the pack, achieving the highest fulfillment rate (71.94%) and the lowest pending order percentage (18.39%).
   Clothing, while boasting the highest number of fulfilled orders (116,404), also carries a pending order rate of 20.14%.
@@ -147,6 +149,18 @@ Our supply chain has demonstrated resilience and maturity from 2020 to 2024, ach
   strain tied to bulky shipments, warehousing delays and transportation lead times.
 
 
+
+
+* The average lead time is 15 days which is above the efficient benchmark(10 days) meaning orders took longer than the ideal process to reach their destination.
+  The North region records the highest lead time at 16 days, while the West, South and East regions have the lowest average lead time at 15 days. This suggests 
+  that delivery operations in the North region experience slightly longer turnaround times than other regions.
+
+* The Warehouse Utilization Rate is 34% which is less than half the target(75%) showing inefficient use of warehouse capacity.
+
+
+* Over the five-year period, transportation spending totaled $9.27M, averaging $7.72K per shipment and reflecting shifting logistics demands as the business moved from disruption to stability. Costs were highest in 2020 at $827,160 due to pandemic-driven freight 
+  constraints then sharply declined in 2021 to $5,446 as sales operations contracted. With market recovery, costs surged to $2.9M in 2022 before stabilizing to $2.77M in 2023 and $2.75M in 2024, demonstrating improved logistics efficiency, stronger supplier 
+  coordination and effective long-term cost control.
 
 
 
